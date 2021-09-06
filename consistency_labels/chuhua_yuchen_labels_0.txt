@@ -1,0 +1,2 @@
+/N/u/chen478/fall2018/apu_project/Pytorch-SiamFC/patches_detected/chuhua_yuchen/VID_20190624_143754/3 /N/u/chen478/fall2018/apu_project/Pytorch-SiamFC/patches_detected/chuhua_yuchen/VID_20190624_143744/3 0
+/N/u/chen478/fall2018/apu_project/Pytorch-SiamFC/patches_detected/chuhua_yuchen/VID_20190624_143754/2 /N/u/chen478/fall2018/apu_project/Pytorch-SiamFC/patches_detected/chuhua_yuchen/VID_20190624_143744/2 0
