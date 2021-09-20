@@ -1,0 +1,23 @@
+{
+    "model": "mobile",
+    "parameter_freeze":[],
+
+    "batch_size": 8,
+    "num_epochs": 2000,
+    "train_epoch_size": 25,
+    "eval_epoch_size": 1,
+    "save_summary_steps":2,
+    "optim":"Adam",
+    "optim_kwargs":{"lr": 1e-4, "weight_decay": 1e-8},
+    "lr_decay":1,
+
+    "max_frame_sep":100000,
+    "reference_sz":256,
+    "search_sz":256,
+    "final_sz": 1,
+    "upscale": 0,
+    "pos_thr": 16,
+    "neg_thr": 24,
+    "context_margin": 0.5
+
+}
